@@ -11,7 +11,7 @@ The app uses the [restcountries.com](https://restcountries.com/) REST API to sho
 
 For the example of handling the **authentication state** in the app, you can refer to my [other tiny project](https://github.com/nholuongut/clean-architecture-swiftui) that harnesses the locks and keys principle for solving this problem.
 
-![platforms](https://img.shields.io/badge/platforms-iPhone%20%7C%20iPad%20%7C%20macOS-lightgrey) [![Build Status](https://travis-ci.com/nholuongut/clean-architecture-swiftui.svg?branch=master)](https://travis-ci.com/nholuongut/clean-architecture-swiftui) [![codecov](https://codecov.io/gh/nholuongut/clean-architecture-swiftui/branch/master/graph/badge.svg)](https://codecov.io/gh/nholuongut/clean-architecture-swiftui)
+![platforms](https://img.shields.io/badge/platforms-iPhone%20%7C%20iPad%20%7C%20macOS-lightgrey)[![codecov](https://codecov.io/gh/nholuongut/clean-architecture-swiftui/branch/master/graph/badge.svg)](https://codecov.io/gh/nholuongut/clean-architecture-swiftui)
 
 
 ## Key features
